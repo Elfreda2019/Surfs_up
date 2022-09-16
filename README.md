@@ -7,3 +7,7 @@ W. Avy is an investor who is concerned about the weather in Oahu because of his 
 
 ## Results
 
+In the month of June the average temperatures was around 75 F, the minimum temperature was at 64F.
+
+Decemeber saw an avearge temperature of 
+
