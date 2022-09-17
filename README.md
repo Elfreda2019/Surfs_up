@@ -13,10 +13,13 @@ Decemeber saw an avearge temperature of around 71F and the minimum temperature w
 
 Maximum temperature for June and Decemeber were 85F and 83F respectivelty. 
 
+Figure1 and Figure2 shows a table of the summary statistics of temepratures in June and December.
+
+
 ![figure1](https://github.com/Elfreda2019/Surfs_up/blob/main/resources/June_temp.png)
-
+Figure1
 ![figure2](https://github.com/Elfreda2019/Surfs_up/blob/main/resources/December_temp.png)
-
+Figure2
 ## Summary
 
 Temperatures are between 64F and 84F in June and 56F and 83F in December. Decemember temperatures is skewed to the right.
