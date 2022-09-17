@@ -13,6 +13,7 @@ Decemeber saw an avearge temperature of around 71F and the minimum temperature w
 
 Maximum temperature for June and Decemeber were 85F and 83F respectivelty. 
 
+https://github.com/Elfreda2019/Surfs_up/blob/main/resources/December_temp.png
 
 ## Summary
 
