@@ -21,5 +21,5 @@ Temperatures are between 64F and 84F in June and 56F and 83F in December. Deceme
 ### 
 Will like to investigate more into the distribution of the temperatures by plotting histogram using the following queries for both Jume and Decemeber.
 
-. results_list_df.plot.hist(bins=12)
-. plt.tight_layout()
+* results_list_df.plot.hist(bins=12)
+* plt.tight_layout()
