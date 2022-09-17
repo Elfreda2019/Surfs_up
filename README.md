@@ -16,4 +16,10 @@ Maximum temperature for June and Decemeber were 85F and 83F respectivelty.
 
 ## Summary
 
-Temperatures are between 64F and 84F in June and 56F and 83F in December. 
+Temperatures are between 64F and 84F in June and 56F and 83F in December. Decemember temperatures is skewed to the right.
+
+### 
+Will like to investigate more into the distribution of the temperatures by plotting histogram using the following queries for both Jume and Decemeber.
+
+. results_list_df.plot.hist(bins=12)
+. plt.tight_layout()
