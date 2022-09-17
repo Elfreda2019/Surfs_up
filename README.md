@@ -14,4 +14,6 @@ Decemeber saw an avearge temperature of around 71F and the minimum temperature w
 Maximum temperature for June and Decemeber were 85F and 83F respectivelty. 
 
 
-## 
+## Summary
+
+Temperatures are between 64F and 84F in June and 56F and 83F in December. 
